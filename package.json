@@ -28,7 +28,7 @@
   "homepage": "https://github.com/Interlincx/example-server#readme",
   "devDependencies": {
     "dependency-check": "^2.10.1",
-    "nodemon": "^1.19.3",
+    "nodemon": "^2.0.22",
     "nyc": "^11.9.0",
     "servertest": "^1.2.1",
     "split2": "^2.2.0",
